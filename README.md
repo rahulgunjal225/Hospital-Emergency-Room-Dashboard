@@ -1,47 +1,73 @@
-🏥 Hospital Emergency Room Analysis Dashboard
+# 🏥 Hospital Emergency Room Analysis Dashboard
 
-An Interactive Microsoft Excel Dashboard for Monitoring Emergency Room Performance and Patient Insights
+> **An Interactive Microsoft Excel Dashboard for Emergency Room Performance Analysis and Business Insights**
 
-<img width="1503" height="627" alt="Hospital Dashboard " src="https://github.com/user-attachments/assets/8380e213-2ded-4927-800f-dd9d6488543c" />
+<img width="1503" height="627" alt="Hospital Dashboard " src="https://github.com/user-attachments/assets/7322c849-374d-4be4-a5a4-3ce54e42a7d7" />
 
 
-📖 Project Overview
+---
 
-The Hospital Emergency Room Analysis Dashboard is an interactive Excel dashboard developed to analyze Emergency Room (ER) patient data and provide valuable insights into hospital operations. It enables healthcare professionals and administrators to monitor patient flow, waiting times, admissions, referrals, patient satisfaction, and demographic trends through dynamic visualizations and KPI metrics.
+## 📖 Project Overview
 
-This project demonstrates how Microsoft Excel, Power Query, Power Pivot, DAX, Pivot Tables, and Interactive Charts can transform raw healthcare data into meaningful business insights.
+The **Hospital Emergency Room Analysis Dashboard** is an interactive Microsoft Excel dashboard designed to analyze Emergency Room (ER) patient data and transform raw information into meaningful business insights.
 
-🎯 Project Objectives
-Monitor Emergency Room patient activity.
-Track hospital performance using KPIs.
-Analyze patient waiting times.
-Understand admission and referral patterns.
-Measure patient satisfaction.
-Support data-driven healthcare decisions.
-📊 Dashboard Features
-📌 KPI Cards
-👥 Total Patients
-⏳ Average Wait Time
-⭐ Patient Satisfaction Score
-📅 Interactive Filters
-Year Selection
-Month Slicer
-📈 Dashboard Visualizations
-Patient Attendance Status
-Patient Admission Status
-Patient Gender Distribution
-Patient Age Group Analysis
-Department Referral Analysis
-🛠 Technologies Used
-Microsoft Excel
-Power Query
-Power Pivot
-DAX
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-🔄 Project Workflow
+This dashboard enables healthcare administrators to monitor key performance indicators (KPIs), evaluate hospital efficiency, analyze patient demographics, track waiting times, and identify department referral trends through interactive visualizations.
+
+The project demonstrates practical Business Intelligence concepts using Excel's advanced analytical tools, making it suitable for data-driven decision-making in healthcare environments.
+
+---
+
+## 🎯 Project Objectives
+
+- Monitor Emergency Room patient volume.
+- Analyze patient waiting time trends.
+- Evaluate patient satisfaction scores.
+- Track patient admission status.
+- Analyze patient demographics.
+- Identify department referral patterns.
+- Support data-driven decision making through interactive dashboards.
+
+---
+
+## 📊 Dashboard Features
+
+### 📌 Key Performance Indicators (KPIs)
+
+- 👥 Total Patients
+- ⏳ Average Waiting Time
+- ⭐ Patient Satisfaction Score
+
+### 📈 Interactive Visualizations
+
+- Patient Attendance Status
+- Patient Admission Analysis
+- Gender Distribution
+- Age Group Distribution
+- Department Referral Analysis
+
+### 🎛 Interactive Filters
+
+- Year Filter
+- Month Slicer
+
+---
+
+## 🛠 Technologies Used
+
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+---
+
+## 🔄 Project Workflow
+
+```text
 Business Requirement Gathering
         ↓
 Understanding the Dataset
@@ -52,38 +78,51 @@ Data Cleaning & Transformation
         ↓
 Calendar Table Creation
         ↓
-Data Modeling using Power Pivot
+Power Pivot Data Modeling
         ↓
 DAX Calculations
         ↓
-Pivot Tables & Charts
+Pivot Table Development
         ↓
-Interactive Dashboard Development
-        ↓
-Business Insights
-
-📈 Key Insights
-Total Patient Analysis
-Average Waiting Time Analysis
-Patient Satisfaction Score Analysis
-Admission vs Non-Admission Analysis
-Age Group Distribution
-Gender Distribution
-Department Referral Analysis
-Patient Attendance Status
-📷 Dashboard Preview
-
-💡 Skills Demonstrated
-Data Cleaning
-Data Transformation
-Power Query
-Power Pivot
-DAX
-Data Modeling
-Data Visualization
 Interactive Dashboard Design
-Business Intelligence
-Excel Dashboard Development
-👨‍💻 Author
+        ↓
+Business Insights Generation
+```
 
-Rahul Gunjal
+---
+
+## 📊 Business Insights
+
+The dashboard provides valuable insights including:
+
+- Overall Emergency Room patient volume
+- Average patient waiting time
+- Patient satisfaction performance
+- Admission vs Non-admission ratio
+- Patient age distribution
+- Gender-wise patient analysis
+- Department referral trends
+- Attendance status analysis
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Power Query
+- Power Pivot
+- DAX Calculations
+- Pivot Table Analysis
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Microsoft Excel
+
+---
+
+## 👨‍💻 Author
+
+**Rahul Gunjal**
+
